@@ -3,6 +3,8 @@
 #
 # coded by mrwhitered
 #
+# licensed by gnu-general-license
+#
 
 from random import randint
 
